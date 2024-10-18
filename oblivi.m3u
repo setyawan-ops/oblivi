@@ -1,3 +1,109 @@
+==============LOKAL HD=========
+
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="Lokal HD", TRANSTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0" group-title="Lokal HD", TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg" group-title="Lokal HD", MNCTV
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165054
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0" group-title="Lokal HD", RCTI 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ddc2zyaf9v8rs2ob84m1w/Gtv-hometv.png?rlkey=q53so172cfxige1f75de5d9hk&dl=0" group-title="Lokal HD", GTV 
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157578
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="Lokal HD", SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://bit.ly/4bd7ic7
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="Lokal HD", SCTV (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/16
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="Lokal HD", INDOSIAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/162138
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="Lokal HD", INDOSIAR (Backup)
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#http://xtv.ooo:8080/Ijaaz123/aijaz321/350972
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ialvvch2o0bys5v79ky8q/antv.png?rlkey=y7rwmrz4mg4r22kd0oxdcqgof&dl=0" group-title="Lokal HD", ANTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0"group-title="Lokal HD", NET TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/bj5v9ur2p61k2sc955omo/rtv.png?rlkey=86fjaa0gtq1ckc0ylv26d5u28&dl=0" group-title="Lokal HD", RTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/52fb63stclpufsw9lar2y/tvri.png?rlkey=f7z0e7tisbpxs3z5qinddtk8u&dl=0" group-title="Lokal HD", TVRI
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dqe1au5pb3aj44i8bamef/jaktv.png?rlkey=yq4c1j44hnkm0sagxk6za1zlo&dl=0"  group-title="Lokal HD",JAK TV
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/24
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="Lokal HD",Mentari TV
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/3
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg"  group-title="Lokal HD",MOJI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
+#http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
+#http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRObO5MWvfa1FnZHk_9DMUuY
+
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg"  group-title="Lokal HD",MOJI (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://bit.ly/4bzxiOA
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
+#https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ochannel_rattus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/t6isdttacf6v4fk7hu4mg/jtv.png?rlkey=r94c7yd6tz51i1gi3ykei4tf8&dl=0"  group-title="Lokal HD",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165091
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/29
+
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg"  group-title="Lokal HD",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/daai.m3u8
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/27
+
+
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
 ===========================TEST TV=========================
 
 #EXTINF:-1 tvg-logo="https://saktitv.my.id/logo/lokal1/rcti.png" group-title="INDONESIA",RCTI R+🇮🇩
